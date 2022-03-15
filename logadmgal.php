@@ -4,7 +4,7 @@
         $uname=$_POST['uname'];
         $pass=$_POST['sifra'];
 
-        if($uname == 'nena' && $pass == 'lenaluka2607'){
+        if($uname == 'user' && $pass == 'userpass'){
             header("Location: galadmin.php");
         }else{
             $error="Pogresan username ili sifra!";
