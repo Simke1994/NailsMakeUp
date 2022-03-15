@@ -6,6 +6,4 @@ This is simple web site for pedicure, manicure and makeup with gallery where you
 
 ![](imgshow/img2.jpg)
 
-![](imgshow/img3.jpg)
-
 ![](imgshow/img4.jpg)
