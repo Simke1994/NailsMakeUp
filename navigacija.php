@@ -81,7 +81,7 @@
                 </button>
             </div>
             <div class="modal-body">
-            Nevena Simić <i class="fab fa-whatsapp"> </i> <i class="fab fa-viber"></i></i> <i class="fa fa-phone"></i> <i class="fa fa-envelope"></i><br>Broj: +381606260708
+            Nevena Simić <i class="fab fa-whatsapp"> </i> <i class="fab fa-viber"></i></i> <i class="fa fa-phone"></i> <i class="fa fa-envelope"></i><br>Broj: +38161234567
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Izadji</button>
@@ -133,9 +133,9 @@
 
 <script>
 		function copyBroj() {
-			var copyText = "+381606260708";
+			var copyText = "+38161234567";
 			navigator.clipboard.writeText(copyText);
-			alert("Sacuvan broj: +381606260708");
+			alert("Sacuvan broj: +38161234567");
 		}
 	</script>
     <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
